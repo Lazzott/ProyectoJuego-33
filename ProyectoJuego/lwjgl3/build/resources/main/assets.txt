@@ -1,0 +1,10 @@
+drop.wav
+entrenador64.png
+fondoInicio.png
+fondoJuego.png
+gastly64.png
+hurt.ogg
+jigglypuff64.png
+libgdx.png
+pokeball64.png
+rain.mp3
